@@ -30,5 +30,5 @@ National parks were colored by dark green, and crop lands by light green.
 Water bodies were colored by dark blue.
 Names of main cities were put on uppercase and colored by red to see easily. Name of towns were colored also colored by red and setup as italic.
 
-###2.2 Interactive presentation
+### 2.2 Interactive presentation
 Pictures were loaded on the map to show some places of Corvallis. The user can click the marker and a picture will popup. This was achieved by using markers and a GeoJson file having coordinates and features.
