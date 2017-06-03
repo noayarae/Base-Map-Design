@@ -1,5 +1,5 @@
 # Base-Map-Design
-This stores base-map designs from Mapbox
+This repository stores base-map designs from Mapbox
 
 Spring term | Geovisual Analytics 572
 
