@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header, .main, .row, footer {
+    width: 95%;
+    margin: 10px auto;
+}
+
+.logo {
+    width: 10px;
+    margin-left: 2%;
+}
+#main-t{
+    color: grey;
+}
+
+h2{
+     font-family: "Arial Black";
+     font-size: 150%;
+     color: orangered;
+     position: absolute;
+     right: 30%;
+     top: 0%;
+ }
+
+.foot1{
+    width: 5%;
+    float: left;
+}
